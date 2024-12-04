@@ -47,7 +47,7 @@ If the above do not resolve the installation issue, then run this instead:
 
 ```R
 if(!require("pak")){BiocManager::install("devtools")}
-devtools::install_github("UPSCb/Tutorial_02_exploratory_data_analysis")
+devtools::install_github("UPSCb/Tutorial_XXX")
 ```
 
 ## Getting started
