@@ -18,13 +18,13 @@
 #
 #' @title RnaSeqTutorials package
 #' @section Tutorials:
-#' This is the first in a series of tutorials
+#' This is the XX in a series of tutorials
 #' \itemize{
-#' \item\code{01_data_science_intro} an introduction to data science using the palmerpenguins package
+#' \item\code{XXX} XXX
 #' }
 #'
-#' @name RnaSeqTutorial01 package
-#' @rdname RnaSeqTutorial01-package
+#' @name RnaSeqTutorialXX package
+#' @rdname RnaSeqTutorialXX-package
 #' @author Nicolas Delhomme [aut,cre]
 #' @keywords package
 #' @description A simple description of the RnaSeqTutorialXX package
